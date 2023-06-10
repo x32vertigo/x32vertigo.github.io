@@ -1,0 +1,16 @@
+p {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#main_header {
+    margin: 0;
+}
+
+body {
+    text-align: center;
+}
+
+main {
+    font-size: 24px;
+}

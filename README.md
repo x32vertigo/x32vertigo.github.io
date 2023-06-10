@@ -1,2 +1,1 @@
-# x32vertigo.github.io
-Public website
+# nano6626.github.io
